@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.7.1"><response><execution-time>6</execution-time><status code="200">HTTP/1.1 200 OK</status><headers><header key="Content-Type" value="application/json"/><header key="Connection" value="close"/><header key="Content-Length" value="20"/></headers><body>IkNpdHkgc2V0IHRvOiBwYXJpcyI=</body></response></rest-client>

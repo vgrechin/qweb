@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.7.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://localhost:5001/mapval</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{&#x0D;
+    "input":"test",&#x0D;
+    "dict":{&#x0D;
+        "test":5,&#x0D;
+        "other":10&#x0D;
+    }&#x0D;
+}&#x0D;
+</string></body></request></rest-client>
