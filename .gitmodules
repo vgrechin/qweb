@@ -1,0 +1,6 @@
+[submodule "reQ"]
+	path = reQ
+	url = https://github.com/jonathonmcmurray/reQ
+[submodule "qwebapi"]
+	path = qwebapi
+	url = https://github.com/jonathonmcmurray/qwebapi.git
